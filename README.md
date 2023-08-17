@@ -1,1 +1,2 @@
-# googlecontactscrm
+- https://developers.google.com/people/quickstart/python
+- https://console.cloud.google.com/apis/
